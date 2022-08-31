@@ -1,0 +1,33 @@
+.heading {
+    width: 100%;
+}
+
+.instructions {
+    float: right;
+    border: 2px solid black;
+}
+
+#image {
+    width: 100%;
+}
+
+#credit {
+    background-color: black;
+    color: white;
+}
+
+.modal-dialog {
+    width: 100%;
+}
+
+.jump {
+    display: inline-block;
+    width: 40%;
+}
+
+video {
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
